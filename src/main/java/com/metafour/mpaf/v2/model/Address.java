@@ -1,6 +1,8 @@
 package com.metafour.mpaf.v2.model;
 
+import javax.xml.bind.annotation.XmlRootElement;
 
+@XmlRootElement
 public class Address {
 
 	private String postcode;

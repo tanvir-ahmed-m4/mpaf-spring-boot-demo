@@ -3,6 +3,9 @@ package com.metafour.mpaf.v2.model;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class Addresses {
 
 	private List<Address> addresses;
