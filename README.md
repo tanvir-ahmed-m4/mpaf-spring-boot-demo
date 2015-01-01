@@ -18,3 +18,7 @@ Both returns HTTP error code 406 (Not Acceptable) if Accept header is applicatio
 0.0.1-M2
 --------
 Both JSON and XML services are working... thanks to @XmlRootElement annotation on bean classes.
+
+0.0.1-M3
+--------
+JAX-WS SOAP services (**Code First**) with Spring Boot.
