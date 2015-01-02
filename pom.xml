@@ -5,7 +5,7 @@
 
 	<groupId>com.metafour</groupId>
 	<artifactId>mpaf-spring-boot-demo</artifactId>
-	<version>0.0.1-M3</version>
+	<version>0.0.1-M4</version>
 	<packaging>jar</packaging>
 
 	<name>mpaf-spring-boot-demo</name>
